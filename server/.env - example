@@ -1,0 +1,4 @@
+DB_NAME=Table
+DB_USER=test
+DB_PASS=123
+PORT=3001
